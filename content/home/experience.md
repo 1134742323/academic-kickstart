@@ -18,27 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Intern"
+  company = "Microsoft Research Asia"
+  company_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
+  location = "Beijing"
+  date_start = "2019-11-19"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Efficiency Optimization of Graph Convolution Network on Large Graphs"""
+[[experience]]
+  title = "Research Assistant"
+  company = "The University of Texas at Austin, CVC Lab"
+  company_url = "https://www.oden.utexas.edu/research/centers-groups/cvc/"
+  location = "Austin, Texas"
+  date_start = "2019-07-01"
+  date_end = "2019-10-01"
+  description = """Deep Learning to Segment Cell and Tissue Microscopy"""
+[[experience]]
+  title = "CV Research Intern"
+  company = "SenseTime Research"
+  company_url = "https://www.sensetime.com/en/"
+  location = "Beijing"
+  date_start = "2019-03-01"
+  date_end = "2019-11-15"
+  description = """Enhancing Person ReID in Representation Learning by Semantic Fusion and Regularization"""
+[[experience]]
+  title = "Research Assistant"
+  company = "Tsinghua University, Department of Automation"
+  company_url = "https://www.tsinghua.edu.cn/publish/auen/"
+  location = "Beijing"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """CV aided Cardiomyopathy Pathological Classification"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Undergrad Student"
+  company = "Beijing Univ of Posts and Telecomm"
+  company_url = "https://english.bupt.edu.cn/"
+  location = "Beijing"
+  date_start = "2016-09-01"
+  date_end = ""
+  description = """Major in Software Engineering at the School of Software"""
 
 +++

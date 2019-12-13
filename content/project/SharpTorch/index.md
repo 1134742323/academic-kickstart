@@ -6,7 +6,7 @@ summary: "Your first dive into DL"
 authors: [Yushi Lan, Xiaotong Li]
 tags: [Deep Learning, Neural Network, Open Source]
 categories: [Framework]
-date: 2019-12-13T19:16:10+08:00
+date: 2019-10-01T19:16:10+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

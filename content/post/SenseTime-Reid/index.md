@@ -3,12 +3,12 @@
 
 title: "Life at SenseTime"
 subtitle: ""
-summary: "Busy while enriched"
+summary: "A new start"
 authors: [Yushi Lan]
 tags: []
 categories: []
-date: 2019-12-13T19:58:15+08:00
-lastmod: 2019-12-13T19:58:15+08:00
+date: 2019-03-13T19:58:15+08:00
+lastmod: 2019-11-13T19:58:15+08:00
 featured: false
 draft: false
 

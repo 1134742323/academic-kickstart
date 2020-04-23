@@ -14,29 +14,32 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Microsoft Research Asia
-  url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
+# - name: Microsoft Research Asia
+- name: MMLab@NTU
+  # url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning particularly deep neural network, computer vision and graph neural network. My destination is to develop ML optimization algorithms to practical applications like graph mining and autonomous driving, which finally towards artificial general intelligence(AGI).
+bio: Stay foolish. 
+# Yushi Lan will be a first year Ph.D student at SCSE, NTU SG. 
+# My research interests include machine learning particularly deep neural network, computer vision and graph neural network. My destination is to develop ML optimization algorithms to practical applications like graph mining and autonomous driving, which finally towards artificial general intelligence(AGI).
 
 interests:
+- Computer Vision 
 - Machine Learning
 - Neural Network
-- Computer Vision 
 - Graph Mining 
 # - Non-Convex Optimization
 
 education:
   courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  - course: PhD in SCSE
+    institution: NTU, Singapore
+    year: 2020
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
-  - course: BSc in Software Engineering 
-    institution: Beijing Univ of Posts and Telecomm
+  - course: BEng in Software Engineering 
+    institution: Beijing Univ of Posts and Tele
     year: 2016
 
 # Social/Academic Networking
@@ -72,9 +75,9 @@ user_groups:
 - Visitors
 ---
 
-I am now a senior undergrad student of sofeware engineering at BUPT, China and a research intern at Microsoft Research Asia. Prior to that, I once interned and studied in UT Austin, Tsinghua and SenseTime Research.
+I am now a senior undergrad student of sofeware engineering at BUPT, China and a research intern at MSRA. I once interned and studied at UT Austin, Tsinghua and SenseTime Research.
 
-My research interests include **machine learning** particularly **deep neural network**, **computer vision** and **graph neural network**.  Specifically, I am interested in developing efficient, robust and provable algorithms for machine learning problems and apply them in applications like graph mining and autonomous driving.
+<!-- My research interests include **machine learning** particularly **deep neural network**, **computer vision** and **graph neural network**.  Specifically, I am interested in developing efficient, robust and provable algorithms for machine learning problems and apply them in applications like graph mining and autonomous driving. -->
 
-**I'm currently looking for PhD positions starting fall 2020.**
+**I will join MMLAB@NTU as Ph.D studnet since July, 2020**
 

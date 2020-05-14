@@ -25,9 +25,7 @@ bio: Stay foolish.
 
 interests:
 - Computer Vision 
-- Machine Learning
-- Neural Network
-- Graph Mining 
+- Geometric Machine Learning
 # - Non-Convex Optimization
 
 education:
@@ -39,7 +37,7 @@ education:
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
   - course: BEng in Software Engineering 
-    institution: Beijing Univ of Posts and Tele
+    institution: Beijing Univ of Posts & Tele
     year: 2016
 
 # Social/Academic Networking
@@ -49,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lanyushi15@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yushi001@e.ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -75,9 +73,9 @@ user_groups:
 - Visitors
 ---
 
-I am now a senior undergrad student of sofeware engineering at BUPT, China and a research intern at MSRA. I once interned and studied at UT Austin, Tsinghua and SenseTime Research.
+I am now a final year undergrad of sofeware engineering at BUPT, China and a research intern at MSRA. I once interned and studied at UT Austin, Tsinghua and SenseTime Research.
 
 <!-- My research interests include **machine learning** particularly **deep neural network**, **computer vision** and **graph neural network**.  Specifically, I am interested in developing efficient, robust and provable algorithms for machine learning problems and apply them in applications like graph mining and autonomous driving. -->
 
-**I will join MMLAB@NTU as Ph.D studnet since July, 2020**
+**I will join MMLab@NTU as Ph.D studnet since July, 2020**
 

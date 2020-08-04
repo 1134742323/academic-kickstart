@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "MagniﬁerNet: TowardsSemanticRegularizationandFusionforPerson Re-identiﬁcation"
-authors: [Yushi Lan, Yuan Liu, Maoqing Tian, Hongsheng Li, et al.]
+authors: [Yushi Lan*, Yuan Liu*, Xinchi Zhou, Maoqing Tian, Hongsheng Li, et al.]
 date: 2019-12-13T18:50:02+08:00
 doi: ""
 
@@ -16,21 +16,21 @@ publishDate: 2019-12-13T18:50:02+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "MagnifierNet"
-publication_short: ""
+publication: "The British Machine Vision Conference 2020"
+publication_short: "BMVC 2020"
 
-abstract: "Although person re-identification (ReID) has achieved significant improvement recently by enforcing part alignment, it is still a challenging task when it comes to distinguishing visually similar identities or identifying occluded person.
-Although person re-identification (ReID) has achieved significant improvement recently by enforcing part alignment, it is still a challenging task when it comes to distinguishing visually similar identities or identifying occluded person. In these scenarios, magnifying details in each part features and selectively fusing them together may provide a feasible solution. 
-In this paper, we propose MagnifierNet, a novel network which accurately mines details for each semantic region and selectively fuse all semantic feature representations. Apart from conventional global branch, our proposed network is composed of a Semantic Regularization Branch (SRB) as learning regularizer and a Semantic Fusion Branch (SFB) towards selectively semantic fusion. The SRB learns with limited number of semantic regions randomly sampled in each batch, which forces the network to learn detailed representation for each semantic region, and the SFB selectively fuses semantic region information in a sequential manner, focusing on beneficial information while neglecting irrelevant features or noises. 
-Although person re-identification (ReID) has achieved significant improvement recently by enforcing part alignment, it is still a challenging task when it comes to distinguishing visually similar identities or identifying occluded person. In these scenarios, magnifying details in each part features and selectively fusing them together may provide a feasible solution. 
-"
+# abstract: "Although person re-identification (ReID) has achieved significant improvement recently by enforcing part alignment, it is still a challenging task when it comes to distinguishing visually similar identities or identifying occluded person.
+# Although person re-identification (ReID) has achieved significant improvement recently by enforcing part alignment, it is still a challenging task when it comes to distinguishing visually similar identities or identifying occluded person. In these scenarios, magnifying details in each part features and selectively fusing them together may provide a feasible solution. 
+# In this paper, we propose MagnifierNet, a novel network which accurately mines details for each semantic region and selectively fuse all semantic feature representations. Apart from conventional global branch, our proposed network is composed of a Semantic Regularization Branch (SRB) as learning regularizer and a Semantic Fusion Branch (SFB) towards selectively semantic fusion. The SRB learns with limited number of semantic regions randomly sampled in each batch, which forces the network to learn detailed representation for each semantic region, and the SFB selectively fuses semantic region information in a sequential manner, focusing on beneficial information while neglecting irrelevant features or noises. 
+# Although person re-identification (ReID) has achieved significant improvement recently by enforcing part alignment, it is still a challenging task when it comes to distinguishing visually similar identities or identifying occluded person. In these scenarios, magnifying details in each part features and selectively fusing them together may provide a feasible solution. 
+# "
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Deep Learning, Neural Network]
+tags: [Deep Learning, Neural Network, Image Retrieval]
 categories: [ComputerVision, Deep Learning, ReID]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -40,8 +40,8 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://arxiv.org/abs/2002.10979
+url_code: https://github.com/NIRVANALAN/magnifiernet_reid
 url_dataset: https://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html
 url_poster:
 url_project:

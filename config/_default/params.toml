@@ -86,13 +86,14 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lanyushi15@gmail.com"
+email = "yushi001@e.ntu.edu.sg"
 # phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-address = {street = "No. 5 Dan Ling Street", city = "Haidian District", region = "Beijing", postcode = "100080", country = "China", country_code = "CN"}
+# address = {street = "No. 5 Dan Ling Street", city = "Haidian District", region = "Beijing", postcode = "100080", country = "China", country_code = "CN"}
+address = {street = "50 Nanyang Ave", city = "Singapore", region = "", postcode = "639798", country = "Singapore", country_code = "SG"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

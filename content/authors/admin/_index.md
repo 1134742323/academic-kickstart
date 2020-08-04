@@ -24,7 +24,7 @@ bio: Stay foolish.
 # My research interests include machine learning particularly deep neural network, computer vision and graph neural network. My destination is to develop ML optimization algorithms to practical applications like graph mining and autonomous driving, which finally towards artificial general intelligence(AGI).
 
 interests:
-- Computer Vision 
+- Computer Vision
 - Geometric Machine Learning
 # - Non-Convex Optimization
 
@@ -64,7 +64,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lanyushi15@gmail.com"
+email: "yushi.lan@outlook.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,9 +73,9 @@ user_groups:
 - Visitors
 ---
 
-I am now a final year undergrad of sofeware engineering at BUPT, China and a research intern at MSRA. I once interned and studied at UT Austin, Tsinghua and SenseTime Research.
+I am now an incoming PhD student at MMLab@NTU, SCSE. I obtained my BE at BUPT, CS Department. I once interned and studied at UT Austin, Tsinghua, SenseTime Research and MSRA.
 
 <!-- My research interests include **machine learning** particularly **deep neural network**, **computer vision** and **graph neural network**.  Specifically, I am interested in developing efficient, robust and provable algorithms for machine learning problems and apply them in applications like graph mining and autonomous driving. -->
 
-**I will join MMLab@NTU as Ph.D studnet since July, 2020**
+<!-- **I will join MMLab@NTU as Ph.D studnet since July, 2020** -->
 

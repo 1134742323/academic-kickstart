@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2002.10979
+url_pdf: https://www.bmvc2020-conference.com/assets/papers/0781.pdf 
 url_code: https://github.com/NIRVANALAN/magnifiernet_reid
 url_dataset: https://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html
 url_poster:

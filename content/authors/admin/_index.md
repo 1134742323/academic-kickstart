@@ -25,7 +25,8 @@ bio: Stay foolish.
 
 interests:
 - Computer Vision
-- Geometric Machine Learning
+- 3D perception and scene understanding
+# - Geometric Machine Learning
 # - Non-Convex Optimization
 
 education:
@@ -61,10 +62,10 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  # link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yushi.lan@outlook.com"
+email: "yushi001@e.ntu.edu.sg"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am now an incoming PhD student at MMLab@NTU, SCSE. I obtained my BE at BUPT, CS Department. I once interned and studied at UT Austin, Tsinghua, SenseTime Research and MSRA.
+I am now a first year PhD student at NTU-SCSE, supervised by Prof. [Chen Change Loys](http://personal.ie.cuhk.edu.hk/~ccloy/index.html). I obtained my BE at BUPT, majored in software engineering. I once interned and studied at UT Austin, Tsinghua, SenseTime and MSRA.
 
 <!-- My research interests include **machine learning** particularly **deep neural network**, **computer vision** and **graph neural network**.  Specifically, I am interested in developing efficient, robust and provable algorithms for machine learning problems and apply them in applications like graph mining and autonomous driving. -->
 

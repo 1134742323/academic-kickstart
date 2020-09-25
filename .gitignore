@@ -2,3 +2,4 @@ public/
 .idea/
 .vscode
 resources/
+.DS_Store

@@ -34,7 +34,7 @@ education:
   - course: Ph.D. in SCSE
     institution: NTU, Singapore
     year: 2020
-  - course: BE in Software Engineering 
+  - course: B.E. in Software Engineering 
     institution: Beijing Univ of Posts & Tele
     year: 2016
 
@@ -71,8 +71,9 @@ user_groups:
 - Visitors
 ---
 
-I am now a first year Ph.D. student at MMLab@NTU, supervised by Prof. [Chen Change Loys](http://personal.ie.cuhk.edu.hk/~ccloy/index.html). I obtained my B.E. degree at BUPT, majored in software engineering, Beijing China. I once interned and studied at UT Austin, Tsinghua, SenseTime and MSRA.
+I am now a first year Ph.D. student at MMLab@NTU, supervised by Prof. [Chen Change Loys](http://personal.ie.cuhk.edu.hk/~ccloy/index.html). I obtained my B.E. degree at BUPT, majored in software engineering, Beijing China. 
 
 My research interests lies in the intersection of **machine learning**, **3D Vision** and **graphics**. I'm also interested in **graph neural network**.  My goal is to develope efficient, robust and provable algorithms and apply them in practical applications. 
 
+I once interned and studied at UT Austin, Tsinghua, SenseTime and MSRA.
 

@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD student"
+  title = "Ph.D. student"
   company = "NTU, SG"
   company_url = "http://scse.ntu.edu.sg/Pages/Home.aspx"
   location = "Singapore"
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergrad Student"
-  company = "Beijing Univ of Posts and Telecomm"
+  company = "Beijing Univ of Posts and Tele"
   company_url = "https://english.bupt.edu.cn/"
   location = "Beijing"
   date_start = "2016-09-01"

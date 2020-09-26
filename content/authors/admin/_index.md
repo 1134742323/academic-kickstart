@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am now a first year Ph.D. student at MMLab@NTU, supervised by Prof. [Chen Change Loys](http://personal.ie.cuhk.edu.hk/~ccloy/index.html). I obtained my B.E. degree at BUPT, majored in software engineering, Beijing China. 
+I am now a first year Ph.D. student at MMLab@NTU, supervised by Prof. [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/index.html). I obtained my B.E. degree at BUPT, majored in software engineering, Beijing China. 
 
 My research interests lies in the intersection of **machine learning**, **3D Vision** and **graphics**. I'm also interested in **graph neural network**.  My goal is to develope efficient, robust and provable algorithms and apply them in practical applications. 
 

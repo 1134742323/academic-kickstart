@@ -26,18 +26,15 @@ bio: Stay foolish.
 interests:
 - Computer Vision
 - 3D perception and scene understanding
-# - Geometric Machine Learning
+- Geometric Machine Learning
 # - Non-Convex Optimization
 
 education:
   courses:
-  - course: PhD in SCSE
+  - course: Ph.D. in SCSE
     institution: NTU, Singapore
     year: 2020
-  # - course: MEng in Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   year: 2009
-  - course: BEng in Software Engineering 
+  - course: BE in Software Engineering 
     institution: Beijing Univ of Posts & Tele
     year: 2016
 
@@ -74,9 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I am now a first year PhD student at NTU-SCSE, supervised by Prof. [Chen Change Loys](http://personal.ie.cuhk.edu.hk/~ccloy/index.html). I obtained my BE at BUPT, majored in software engineering. I once interned and studied at UT Austin, Tsinghua, SenseTime and MSRA.
+I am now a first year Ph.D. student at MMLab@NTU, supervised by Prof. [Chen Change Loys](http://personal.ie.cuhk.edu.hk/~ccloy/index.html). I obtained my B.E. degree at BUPT, majored in software engineering, Beijing China. I once interned and studied at UT Austin, Tsinghua, SenseTime and MSRA.
 
-<!-- My research interests include **machine learning** particularly **deep neural network**, **computer vision** and **graph neural network**.  Specifically, I am interested in developing efficient, robust and provable algorithms for machine learning problems and apply them in applications like graph mining and autonomous driving. -->
+My research interests lies in the intersection of **machine learning**, **3D Vision** and **graphics**. I'm also interested in **graph neural network**.  My goal is to develope efficient, robust and provable algorithms and apply them in practical applications. 
 
-<!-- **I will join MMLab@NTU as Ph.D studnet since July, 2020** -->
 
